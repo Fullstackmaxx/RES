@@ -1,0 +1,11 @@
+address,city,state,zip_code,price,bedrooms,bathrooms,square_feet,year_built,property_type,monthly_rent,yearly_taxes,yearly_insurance,maintenance_percentage,vacancy_rate
+"123 Main St","Austin","TX","78701",450000,3,2.5,1800,2015,"Single-Family",2800,5400,1350,5,3
+"456 Oak Ave","Austin","TX","78702",320000,2,2,1200,2010,"Condo",2200,3840,960,4,2
+"789 Pine Rd","Dallas","TX","75201",520000,4,3,2200,2018,"Single-Family",3200,6240,1560,5,4
+"321 Elm St","Houston","TX","77001",380000,3,2.5,1600,2012,"Townhouse",2600,4560,1140,4,3
+"654 Maple Dr","San Antonio","TX","78201",290000,2,2,1100,2008,"Condo",2000,3480,870,3,2
+"987 Cedar Ln","Austin","TX","78703",680000,5,4,2800,2020,"Single-Family",4200,8160,2040,6,5
+"147 Birch St","Dallas","TX","75202",410000,3,2.5,1700,2014,"Townhouse",2750,4920,1230,4,3
+"258 Walnut Ave","Houston","TX","77002",350000,2,2,1300,2011,"Condo",2400,4200,1050,4,2
+"369 Spruce Rd","Austin","TX","78704",580000,4,3.5,2100,2017,"Single-Family",3600,6960,1740,5,4
+"741 Aspen Dr","San Antonio","TX","78202",265000,2,1.5,950,2005,"Condo",1800,3180,795,3,2
